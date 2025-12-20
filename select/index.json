@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "ごめんね",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-20T14:06:04.888528Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ごめんね",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_ごめんね_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ごめんね",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_ごめんね_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ごめんね",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/03_ごめんね_SHISHAMO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ごめんね、恋心",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/04_ごめんね、恋心_SHISHAMO.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ごめんね",
+      "artist": "Kana Nishino",
+      "has_synced": false,
+      "path": "select/05_ごめんね_Kana_Nishino.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君の幸せ喜べない、ごめんね",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/06_君の幸せ喜べない、ごめんね_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ごめんね ごめんね",
+      "artist": "きくお",
+      "has_synced": true,
+      "path": "select/07_ごめんね_ごめんね_きくお.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ごめんね ごめんね",
+      "artist": "Kikuo",
+      "has_synced": true,
+      "path": "select/08_ごめんね_ごめんね_Kikuo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ごめんね",
+      "artist": "Ayano Kaneko",
+      "has_synced": false,
+      "path": "select/09_ごめんね_Ayano_Kaneko.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ごめんね",
+      "artist": "Kaneko Ayano",
+      "has_synced": false,
+      "path": "select/10_ごめんね_Kaneko_Ayano.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ありがとう、ごめんね",
+      "artist": "Galileo Galilei",
+      "has_synced": true,
+      "path": "select/11_ありがとう、ごめんね_Galileo_Galilei.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ごめんね。",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/12_ごめんね。_Uru.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "02.ごめんね。",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/13_02.ごめんね。_Uru.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ごめんね。",
+      "artist": "Ai Otsuka",
+      "has_synced": false,
+      "path": "select/14_ごめんね。_Ai_Otsuka.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ごめんね。",
+      "artist": "大塚愛",
+      "has_synced": false,
+      "path": "select/15_ごめんね。_大塚愛.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ごめんね、SUMMER",
+      "artist": "SKE48",
+      "has_synced": true,
+      "path": "select/16_ごめんね、SUMMER_SKE48.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ごめんね",
+      "artist": "AYANE",
+      "has_synced": true,
+      "path": "select/17_ごめんね_AYANE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ごめんね",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_ごめんね_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ごめんね",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_ごめんね_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ごめんね",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_ごめんね_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ごめんね",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_ごめんね_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ごめんね",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_ごめんね_米津玄師.txt"
+    }
+  ]
+}
