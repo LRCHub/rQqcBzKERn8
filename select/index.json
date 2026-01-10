@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "ごめんね",
-  "base_artist": "Kenshi Yonezu",
-  "createdAt": "2025-12-20T14:06:04.888528Z",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-01-10T13:38:47.888657Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,38 +147,6 @@
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_ごめんね_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "ごめんね",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_02_ごめんね_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "ごめんね",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_03_ごめんね_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "ごめんね",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_04_ごめんね_米津玄師.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "ごめんね",
-      "artist": "米津玄師",
-      "has_synced": false,
-      "path": "select/pl_05_ごめんね_米津玄師.txt"
     }
   ]
 }
